@@ -1,8 +1,12 @@
 ### 开发所需工具下载地址
 
 * 百度网盘 分享：  
-链接：https://pan.baidu.com/s/17tOjtFLkF5TK_gfgMMq01A?pwd=6666 
-提取码：6666 
+链接：https://pan.baidu.com/s/17tOjtFLkF5TK_gfgMMq01A  
+* 提取码(请使用微信扫描小程序二维码进行查看)(为了恰饭)：
+![乱七八载小程序二维码](./docImg/乱七八载小程序二维码.jpg)
+* 查看步骤如下：  
+![步骤1](./docImg/乱七八载小程序_查看易语言开发提取码_1.png)
+![步骤2](./docImg/乱七八载小程序_查看易语言开发提取码_2.png)
 * 系统环境： Windows 10 x64
 
 ### 工具使用说明
